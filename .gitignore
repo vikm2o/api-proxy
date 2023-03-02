@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.xml
+.vscode/
+*.dll
+.ipynb_checkpoints/
